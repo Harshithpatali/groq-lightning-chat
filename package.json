@@ -21,6 +21,7 @@
     "uuid": "^11.0.3"
   },
   "devDependencies": {
+    "@types/node": "^22.10.2",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "@types/uuid": "^10.0.0",
@@ -32,4 +33,3 @@
     "wrangler": "^3.90.0"
   }
 }
-
