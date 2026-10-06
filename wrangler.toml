@@ -1,0 +1,6 @@
+name = "groq-lightning-chat"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "dist"
+
+# Environment variables are set in the Cloudflare dashboard
+# GROQ_API_KEY = "gsk_..."
